@@ -10,6 +10,8 @@ cd server
 dotnet run
 ```
 
+see Api, http://localhost:5299/swagger/index.html
+
 ---
 
 ### 1.2. Create Front End（React）
